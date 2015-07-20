@@ -1,4 +1,4 @@
-# Two's Complement Conversions Calculator
+# Two's Complement Calculator
 
 This library contains functions to calculate the two's complement of a decimal number and vice-versa; the two's complement representation is available in both binary and hexadecimal representation. 
 
